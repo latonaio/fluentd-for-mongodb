@@ -1,6 +1,6 @@
 # fluentd-for-mongodb
 
-fluentd-for-mongodbとは、収集されたログをMongoDBへ保存するためのリソースです。  
+fluentd-for-mongodbは、収集されたログをMongoDBへ保存するためのリソースです。  
 fluentd を動かすためには、fluentd-for-mongodb の他に、下記のようなレポジトリを参照して、設定を行う必要があります。  
 
 * fluentd-for-docker-containers  
