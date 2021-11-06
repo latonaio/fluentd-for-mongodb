@@ -9,6 +9,12 @@ fluentd を動かすためには、fluentd-for-mongodb の他に、下記のよ�
 
 * fluentd-for-containers-mongodb-kube  
 
+## 動作環境
+fluentd-for-mongodb は、以下の動作環境を前提としています。  
+
+* OS: Linux OS  
+* CPU: ARM/AMD/Intel  
+
 ## サンプル定義ファイル
 
 本リポジトリには、fluentd-for-mongodbとしてのサンプル定義ファイル fluentd-configmap.yaml が格納されています。
