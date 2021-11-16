@@ -4,9 +4,7 @@ fluentd-for-mongodbは、収集されたログをMongoDBへ保存するための
 fluentd を動かすためには、fluentd-for-mongodb の他に、下記のようなレポジトリを参照して、設定を行う必要があります。  
 
 * fluentd-for-docker-containers  
-
 * fluentd-core-kube  
-
 * fluentd-for-containers-mongodb-kube  
 
 ## 動作環境
